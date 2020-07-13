@@ -114,6 +114,7 @@ section header ul li a:hover {
 }
 section header i {
   float: right;
+  color: #fff;
   display: none !important;
 }
 @media only screen and (max-width: 320px) {
